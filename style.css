@@ -1,0 +1,70 @@
+body{
+    background-color:#FFC961;
+    padding-top: 40px;
+    padding: auto;
+    padding: 2%;
+}
+
+
+
+strong{
+    color:darkblue;
+}
+
+/* Centered Menu */
+.navbar-start {
+      flex-grow: 1;
+      justify-content: center;
+}
+
+.home-title{
+    font-size: 100px;
+}
+
+.sub-title{
+    font-size: 60px;
+}
+
+.seperator {
+    background-image: url(https://pxdraft.com/themeforest/nairo/nairo/static/img/border.png);
+    background-position: 50%;
+    background-repeat: repeat-x;
+    background-size: auto 6px;
+    margin-left: 4rem!important;
+    margin-right: 4rem!important;
+    padding-bottom: 80px;
+    padding-top: 80px;
+}
+
+hr {
+    border: none;
+    border-top: 3px double #333;
+    color: #333;
+    overflow: visible;
+    text-align: center;
+    height: 5px;
+}
+
+hr:after {
+    content: '§';
+    padding: 0 4px;
+    position: relative;
+    top: -13px;
+}
+
+
+.contact {
+  width: 440px;
+  height: 314px;
+  background: rgba(3, 4, 94, 1);
+  opacity: 1;
+  overflow: hidden;
+}
+
+.contact {
+    width: 585px;
+    height: 486px;
+    background: rgba(3, 4, 94, 1);
+    opacity: 1;
+    overflow: hidden;
+  }
